@@ -6,7 +6,7 @@ This is a simple raytracing Java project created by me, Im beginner in Java deve
 
 This project includes the basic principles of raytracing such as AmbientLight, DirectedLight, PointLight, ColoredLight, and light diffusion. However, the program does not support polygons and only accesses Sphere and Plane objects that must be colored. The most interesting part of this project is the implementation of Reflection, Mirror Reflection, and Refraction (which is not fully working yet) and some object materials such as color, specular, beta-roughness, and reflection.
 
-As mentioned earlier, this pet project was created to get acquainted with the mathematical concepts of raytracing, and the code is NOT DOCUMENTED. However, the code is written in readable Java, and the project is designed to be easily scalable. Adding a rotating camera, movement, GPU support, polygons, other 3D objects, more materials, etc., is possible since the basis is already there.
+As mentioned earlier, this pet project was created to get acquainted with the mathematical concepts of raytracing, and the code is NOT DOCUMENTED. However, the code is written in PURE Java, and the project is designed to be easily scalable. Adding a rotating camera, movement, GPU support, polygons, other 3D objects, more materials, etc., is possible since the basis is already there.
 
 ## Render Example
 
