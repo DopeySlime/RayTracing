@@ -10,35 +10,27 @@ As mentioned earlier, this pet project was created to get acquainted with the ma
 
 ## Render Example
 
-![Render Example](https://github.com/DopeySlime/RayTracing/blob/master/out/output.bmp)
+![Render Example](/out/output.bmp)
 
 ## Installation Instructions
 
 This project was built using Gradle, so make sure you have it installed on your machine. Then, follow these steps:
 
 1. Clone this repository.
-<pre>
-    <code>
-        git clone https://github.com/DopeySlime/RayTracing.git
-    </code>
-</pre>
+```shell
+git clone https://github.com/DopeySlime/RayTracing.git
+```
 2. Navigate to the root directory of the project.
-<pre>
-    <code>
-        cd RayTracing
-    </code>
-</pre>
+```shell
+cd RayTracing
+```
 3. Build the project.
-<pre>
-    <code>
-        ./gradlew build
-    </code>
-</pre>
+```shell
+./gradlew build
+```
 4. Run the project, to get render image in /out.
-<pre>
-    <code>
-        ./gradlew run
-    </code>
-</pre>
+```shell
+./gradlew run
+```
 
-That's it! You should now be able to see the image of render. Feel free to modify the code and experiment with different settings.
+That's it! You should now be able to see the image of the render. Feel free to modify the code and experiment with different settings.
